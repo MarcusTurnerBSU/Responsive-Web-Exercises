@@ -1,0 +1,24 @@
+p {
+  margin: 10px
+}
+
+section {
+  width: 50%;
+  float: left;
+}
+
+img {
+  width: 100%;
+}
+
+@media screen and (max-width: 500px) {
+  section {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 500px) {
+  section {
+    width: 100%;
+  }
+}
