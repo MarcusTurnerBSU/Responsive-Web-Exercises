@@ -1,0 +1,41 @@
+body {
+	width: 100vw;
+	margin: 0;
+}
+
+article {
+	width: 100%;
+	background-color: #aaffc5;
+	text-align: center;
+	padding: 50px 0px;
+	display: none;
+}
+
+@media screen and (max-width: 480px) and (orientation: portrait) {
+	#mobile-portrait {
+		height: 70px;
+		display: block;
+		}
+}
+
+@media screen and (max-height: 480px) and (orientation: landscape) {
+	#mobile-landscape {
+		height: 150px;
+		background-color: #aaceff;
+		display: block;
+	}
+}
+
+@media screen and (min-width: 481px) and (orientation: portrait) {
+	#tablet-portrait {
+		height: 70px;
+		display: block;
+	}
+}
+
+@media screen and (min-height: 481px) and (orientation: landscape){
+	#tablet-landscape-or-desktop {
+		height: 70px;
+		display: block;
+	}
+}

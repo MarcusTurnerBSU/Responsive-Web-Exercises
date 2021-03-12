@@ -1,0 +1,16 @@
+/* Remove browser default padding and margin from all elements */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* Contain the body tag to a maximum of 1024px */
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+/* Styling must be applied to the img tag within the <picture> element */
+picture img {
+	width: 100%;
+}
