@@ -1,0 +1,38 @@
+.item {
+	background-color: #d4e1ff;
+	border: 1px solid green;
+	padding: 10px;
+}
+
+.container {
+	border: 1px solid black;
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(2, 1fr);
+	grid-auto-flow: dense;  				 /* This avoid gaps in the grid (as item 6 starts on column 2) by pushing further items into the gap */
+}
+
+.item6 {
+	grid-column-start: 2; 		/* Starts .item6 to grid line 2 */
+	grid-column-end: 4;			/* Ends .item6 to grid line 4 */
+	grid-column: 2 / 4; 		/* Shorthand for grid-column-start and grid-column-end */
+	grid-column: 2 / span 2; 	/* As above for grid-column, but end point defined with the number of grid cells that the item expands in to */
+}
+
+.item1 {
+	grid-row: 1 / span 3;		/* Here item 1 spans 3 rows, beginning at row 1 */
+}
+
+.item8 {
+	grid-area: 4 / 2 / 6 / 4;	/* Shorthand in this order: 'grid-row-start', 'grid-column-start', 'grid-row-end', 'grid-column-end' */
+}
+
+
+/*
+NOTES
+
+Use 'Firefox developer tools > Inspector > check section.container > check Display line numbers' for line numbers.
+Comment out grid-column properties if you are adjusting the values of grid-column-start and grid-column-end.
+Note that 'grid-column 2 / span 2' is the same as writing 'grid-column: 2 / 4'.
+*/

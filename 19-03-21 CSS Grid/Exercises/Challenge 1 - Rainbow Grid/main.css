@@ -1,0 +1,77 @@
+.container {
+	border: 1px solid black;
+	margin: 30px;
+	width: 600px;
+	font-size: 4em;
+	box-sizing: border-box;
+}
+
+.container div {
+	padding: 10px;
+	border: 1px solid black;
+}
+
+/* Ignore styling above this. This simply styles the container and div create equal squares */
+/* Solution from here, note .container adds additional styling to the above selector */
+
+.container {
+	display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+}
+
+.red {
+	background-color: red;
+	grid-column-start: 2;
+  grid-column-end: 6;
+}
+
+.orange {
+	background-color: orange;
+	grid-column-start: 1;
+  grid-row-start: 2;
+  grid-row-end: 6;
+}
+
+.yellow {
+	background-color: yellow;
+	grid-column-start: 2;
+	grid-row-start: 2;
+	grid-column-end: 4;
+	grid-row-end: 5;
+}
+
+.green {
+	background-color: green;
+	grid-column-start: 4;
+  grid-row-start: 2;
+  grid-column-end: 6;
+}
+
+.blue {
+	background-color: blue;
+	grid-column-start: 2;
+  grid-row-start: 5;
+  grid-column-end: 6;
+}
+
+.purple {
+	background-color: purple;
+	grid-column-start: 6;
+  grid-row-start: 1;
+  grid-row-end: 6;
+}
+
+.gray {
+	background-color: gray;
+	grid-column-start: 4;
+  grid-row-start: 3;
+  grid-column-end: 6;
+  grid-row-end: 5;
+}
+
+.white {
+	background-color: white;
+	grid-column-start: 1;
+  grid-row-start: 1;
+}

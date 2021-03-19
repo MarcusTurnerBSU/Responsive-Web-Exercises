@@ -1,0 +1,28 @@
+.item {
+	background-color: #d4e1ff;
+	border: 1px solid green;
+}
+
+.container {
+    padding: 20px;
+    margin: 20px;
+    border-top: 2px solid red;
+    border-left: 2px solid blue;
+	display: grid;
+	grid-template-columns: 400px 200px;  	/* sets two columns of 200px and 100px respectively. */
+	grid-template-rows: 200px 100px 50px;   /* sets row heights for first three items of 200px, 100px and 50px respectively. */
+	grid-gap: 10px 15px;   					/* Sets gap between items as 10px between rows and 5px between columns */
+}
+
+.container .item {
+    padding: 10px;
+}
+
+
+/*
+TERMINOLOGY
+
+Grid container - the outer container that holds grid items
+Grid item - items within a grid container
+Grid track - the space between two adjacent grid lines
+*/

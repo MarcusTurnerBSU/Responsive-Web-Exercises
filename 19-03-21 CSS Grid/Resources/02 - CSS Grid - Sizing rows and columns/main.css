@@ -1,0 +1,25 @@
+.item {
+	background-color: #d4e1ff;
+	border: 1px solid green;
+}
+
+.container {
+	margin: 40px;
+	border: 1px solid black;
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 100px 1fr;   		/* Column widths set as 100px for column 2, and column 3 and 1 share remaining space */
+	grid-template-columns: 1fr 100px 2fr; 			/* Column 3 now uses twice the remaining space as column 1 */
+	grid-template-columns: repeat(4, 150px);  		/* Column widths repeated 4 times, all at 150px wide */
+	grid-template-columns: repeat(2, 100px 1fr);  	/* Column widths repeats 4 twice. For both groups column 1 is 100px and other remaining space */
+	grid-template-rows: 2fr 1fr 3fr;				/* Row heights are proportional - i.e. row 3 is 3 times as tall as row 2 */
+	height: 400px;
+}
+
+
+/*
+NOTES
+
+Comment out all of the grid-template-columns and then uncomment one at a time to see the effect.
+Notice that row 4 is still only the height its content. This is because we haven't set the height of row 4 - it's height is 'implicit'.
+*/

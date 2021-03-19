@@ -1,0 +1,31 @@
+.item {
+	background-color: #d4e1ff;
+	border: 1px solid green;	
+}
+
+.container {
+	border: 1px solid black;
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: repeat(4, auto);  
+	justify-content: start;					  /* Moves content to the start of the grid container. */ 
+	justify-content: end;				      /* Moves content to the end of the grid container. */ 
+	justify-content: center;				  /* Moves content to the middle of the grid container. */ 
+	justify-content: space-around;			  /* Spreads items in the grid container, but all around each item */ 
+	justify-content: space-evenly;			  /* Spreads items in the grid container, but equally */
+	justify-content: space-between;			  /* Removes space at the start and end of the grid, but space between items is even */ 
+	height: 80vh;
+	align-content: start;					  /* Moves content to the start of the grid container. */ 
+	align-content: end;				      	  /* Moves content to the end of the grid container. */ 
+	align-content: center;				  	  /* Moves content to the middle of the grid container. */ 
+	align-content: space-around;			  /* Spreads items in the grid container, but all around each item */ 
+	align-content: space-evenly;			  /* Spreads items in the grid container, but equally */
+	align-content: space-between;			  /* Removes space at the start and end of the grid, but space between items is even */ 
+}
+
+/*
+NOTES
+Note that when justifying content within the grid container, grid items use only the space needed by their content.
+Comment out all 'justify-content' properties, and uncomment one at a time to see their effects.
+Comment out all 'align-content' properties, and uncomment one at a time to see their effects.
+*/
