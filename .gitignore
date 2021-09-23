@@ -13,3 +13,176 @@
 19-03-21 CSS Grid/Resources/03 - CSS Grid - Placing Grid Items/.DS_Store
 19-03-21 CSS Grid/Resources/__MACOSX/03 - CSS Grid - Placing Grid Items/._.DS_Store
 19-03-21 CSS Grid/Resources/__MACOSX/04 - CSS Grid - Aligning the container/._.DS_Store
+*.DS_Store
+*.html
+*.jpg
+*.png
+*.css
+*.pptx
+03-12-21 Media Queries Part 2/__MACOSX/._Challenge - Article Picker
+03-12-21 Media Queries Part 2/__MACOSX/._Challenge - Deer Cropping (Art Direction)
+*.pdf
+03-19-21 CSS Grid/Exercises/__MACOSX/._Challenge 1 - Rainbow Grid
+03-19-21 CSS Grid/Resources/__MACOSX/._01 - CSS Grid - First Steps
+03-19-21 CSS Grid/Resources/__MACOSX/._02 - CSS Grid - Sizing rows and columns
+03-19-21 CSS Grid/Resources/__MACOSX/._03 - CSS Grid - Placing Grid Items
+03-19-21 CSS Grid/Resources/__MACOSX/._04 - CSS Grid - Aligning the container
+03-26-21 Flexbox/Resources/__MACOSX/._1. CSS Flexbox - Set up and Direction
+03-26-21 Flexbox/Resources/__MACOSX/._2. CSS Flexbox - Wrapping
+03-26-21 Flexbox/Resources/__MACOSX/._3. CSS Flexbox - Order
+03-26-21 Flexbox/Resources/__MACOSX/._4. CSS Flexbox -Justify Content (Main Axis)
+03-26-21 Flexbox/Resources/__MACOSX/._5. CSS Flexbox -Align Content (Cross Axis)
+03-26-21 Flexbox/Resources/__MACOSX/._6. CSS Flexbox -Align Individual Items
+03-26-21 Flexbox/Resources/__MACOSX/._7. CSS Flexbox - Distributing Space (flex-grow)
+03-26-21 Flexbox/Resources/__MACOSX/._8. CSS Flexbox - Distributing Space (flex-shrink)
+03-26-21 Flexbox/Resources/__MACOSX/._Challenge 1 - 3 Column Layout
+04-16-21 SCSS Part 1/Exercises/__MACOSX/._Challenge - SCSS
+04-16-21 SCSS Part 1/Exercises/__MACOSX/Challenge - SCSS/._css
+04-16-21 SCSS Part 1/Exercises/__MACOSX/Challenge - SCSS/css/._main.scss
+04-16-21 SCSS Part 1/Exercises/Challenge - SCSS/css/main.scss
+04-16-21 SCSS Part 1/Resources/__MACOSX/responsive-web-sass-1/css/._main.css.map
+04-16-21 SCSS Part 1/Resources/__MACOSX/responsive-web-sass-1/css/._main.scss
+04-16-21 SCSS Part 1/Resources/__MACOSX/responsive-web-sass-1/css/._mixins.scss
+04-16-21 SCSS Part 1/Resources/__MACOSX/responsive-web-sass-1/css/._reset.scss
+04-16-21 SCSS Part 1/Resources/responsive-web-sass-1/css/main.css.map
+04-16-21 SCSS Part 1/Resources/responsive-web-sass-1/css/main.scss
+04-16-21 SCSS Part 1/Resources/responsive-web-sass-1/css/mixins.css.map
+04-16-21 SCSS Part 1/Resources/responsive-web-sass-1/css/mixins.scss
+04-16-21 SCSS Part 1/Resources/responsive-web-sass-1/css/reset.css.map
+04-16-21 SCSS Part 1/Resources/responsive-web-sass-1/css/reset.scss
+04-23-21 SCSS Part 2/Exercises/3-column-preview-card-component-main/images/icon-luxury.svg
+04-23-21 SCSS Part 2/Exercises/3-column-preview-card-component-main/images/icon-sedans.svg
+04-23-21 SCSS Part 2/Exercises/3-column-preview-card-component-main/images/icon-suvs.svg
+04-23-21 SCSS Part 2/Exercises/3-column-preview-card-component-main/README-template.md
+04-23-21 SCSS Part 2/Exercises/3-column-preview-card-component-main/README.md
+04-23-21 SCSS Part 2/Exercises/3-column-preview-card-component-main/style-guide.md
+04-23-21 SCSS Part 2/Exercises/SCSS Media Queries Challenge/__MACOSX/._css
+04-23-21 SCSS Part 2/Exercises/SCSS Media Queries Challenge/__MACOSX/css/._main.scss
+04-23-21 SCSS Part 2/Exercises/SCSS Media Queries Challenge/css/main.scss
+04-23-21 SCSS Part 2/Resources/__MACOSX/._SCSS - Conditional IF Statements
+04-23-21 SCSS Part 2/Resources/__MACOSX/._SCSS - Lists
+04-23-21 SCSS Part 2/Resources/__MACOSX/._SCSS - Loops
+04-23-21 SCSS Part 2/Resources/__MACOSX/._SCSS - Managing Media Queries
+04-23-21 SCSS Part 2/Resources/__MACOSX/SCSS - Conditional IF Statements/._css
+04-23-21 SCSS Part 2/Resources/__MACOSX/SCSS - Conditional IF Statements/css/._main.css.map
+04-23-21 SCSS Part 2/Resources/__MACOSX/SCSS - Conditional IF Statements/css/._main.scss
+04-23-21 SCSS Part 2/Resources/__MACOSX/SCSS - Lists/._css
+04-23-21 SCSS Part 2/Resources/__MACOSX/SCSS - Lists/css/._main.css.map
+04-23-21 SCSS Part 2/Resources/__MACOSX/SCSS - Lists/css/._main.scss
+04-23-21 SCSS Part 2/Resources/__MACOSX/SCSS - Loops/._css
+04-23-21 SCSS Part 2/Resources/__MACOSX/SCSS - Loops/css/._main.css.map
+04-23-21 SCSS Part 2/Resources/__MACOSX/SCSS - Loops/css/._main.scss
+04-23-21 SCSS Part 2/Resources/__MACOSX/SCSS - Managing Media Queries/._css
+04-23-21 SCSS Part 2/Resources/__MACOSX/SCSS - Managing Media Queries/css/._main.css.map
+04-23-21 SCSS Part 2/Resources/__MACOSX/SCSS - Managing Media Queries/css/._main.scss
+04-23-21 SCSS Part 2/Resources/SCSS - Conditional IF Statements/css/main.css.map
+04-23-21 SCSS Part 2/Resources/SCSS - Conditional IF Statements/css/main.scss
+04-23-21 SCSS Part 2/Resources/SCSS - Lists/css/main.css.map
+04-23-21 SCSS Part 2/Resources/SCSS - Lists/css/main.scss
+04-23-21 SCSS Part 2/Resources/SCSS - Loops/css/main.css.map
+04-23-21 SCSS Part 2/Resources/SCSS - Loops/css/main.scss
+04-23-21 SCSS Part 2/Resources/SCSS - Managing Media Queries/css/main.css.map
+04-23-21 SCSS Part 2/Resources/SCSS - Managing Media Queries/css/main.scss
+04-30-21 jQuery Javascript/Resources/__MACOSX/._jQuery - Adjusting CSS
+04-30-21 jQuery Javascript/Resources/__MACOSX/._jQuery - Basic Effects
+04-30-21 jQuery Javascript/Resources/__MACOSX/._jQuery - Class Setup
+04-30-21 jQuery Javascript/Resources/__MACOSX/._jQuery - Event Handling
+04-30-21 jQuery Javascript/Resources/__MACOSX/._jQuery - Getting Started
+04-30-21 jQuery Javascript/Resources/__MACOSX/._jQuery - More Text Manipulation
+04-30-21 jQuery Javascript/Resources/__MACOSX/._jQuery - Querying Elements
+04-30-21 jQuery Javascript/Resources/__MACOSX/jQuery - Class Setup/._javascript
+04-30-21 jQuery Javascript/Resources/__MACOSX/jQuery - Class Setup/javascript/._jquery-3.4.1.min.js
+04-30-21 jQuery Javascript/Resources/jQuery - Class Setup/javascript/jquery-3.4.1.min.js
+05-03-21 Media Queries Part 1/__MACOSX/Challenge 1/._.DS_Store
+05-03-21 Media Queries Part 1/__MACOSX/Challenge 1/._index.html
+05-03-21 Media Queries Part 1/__MACOSX/Challenge 1/._moon.jpg
+05-03-21 Media Queries Part 1/__MACOSX/Challenge 1/._sun.jpg
+05-03-21 Media Queries Part 1/__MACOSX/Challenge 1/Target design/._.DS_Store
+05-03-21 Media Queries Part 1/__MACOSX/Challenge 1/Target design/._Target Design - 500px and over.png
+05-03-21 Media Queries Part 1/__MACOSX/Challenge 1/Target design/._Target design - under 500px.png
+05-03-21 Media Queries Part 1/__MACOSX/Challenge 2/._.DS_Store
+05-03-21 Media Queries Part 1/__MACOSX/Challenge 2/._index.html
+05-03-21 Media Queries Part 1/__MACOSX/Challenge 2/._moon.jpg
+05-03-21 Media Queries Part 1/__MACOSX/Challenge 2/._neptune.jpg
+05-03-21 Media Queries Part 1/__MACOSX/Challenge 2/._sun.jpg
+05-03-21 Media Queries Part 1/__MACOSX/Challenge 2/Target design/._.DS_Store
+05-03-21 Media Queries Part 1/__MACOSX/Challenge 2/Target design/._Target design - over 500px and up to and including 720px.png
+05-03-21 Media Queries Part 1/__MACOSX/Challenge 2/Target design/._Target design - over 720px.png
+05-03-21 Media Queries Part 1/__MACOSX/Challenge 2/Target design/._Target design - up to 500px.png
+05-03-21 Media Queries Part 1/Challenge 1/.DS_Store
+05-03-21 Media Queries Part 1/Challenge 1/index.html
+05-03-21 Media Queries Part 1/Challenge 1/main.css
+05-03-21 Media Queries Part 1/Challenge 1/moon.jpg
+05-03-21 Media Queries Part 1/Challenge 1/sun.jpg
+05-03-21 Media Queries Part 1/Challenge 1/Target design/.DS_Store
+05-03-21 Media Queries Part 1/Challenge 1/Target design/Target Design - 500px and over.png
+05-03-21 Media Queries Part 1/Challenge 1/Target design/Target design - under 500px.png
+05-03-21 Media Queries Part 1/Challenge 2/.DS_Store
+05-03-21 Media Queries Part 1/Challenge 2/index.html
+05-03-21 Media Queries Part 1/Challenge 2/main.css
+05-03-21 Media Queries Part 1/Challenge 2/moon.jpg
+05-03-21 Media Queries Part 1/Challenge 2/neptune.jpg
+05-03-21 Media Queries Part 1/Challenge 2/sun.jpg
+05-03-21 Media Queries Part 1/Challenge 2/Target design/Target design - over 500px and up to and including 720px.png
+05-03-21 Media Queries Part 1/Challenge 2/Target design/Target design - over 720px.png
+05-03-21 Media Queries Part 1/Challenge 2/Target design/Target design - up to 500px.png
+05-07-21 CSS Transitions & Animations/Exercises/__MACOSX/modal/._readme.txt
+05-07-21 CSS Transitions & Animations/Exercises/__MACOSX/modal/js/._main.js
+05-07-21 CSS Transitions & Animations/Exercises/__MACOSX/modal/scss/._base.scss
+05-07-21 CSS Transitions & Animations/Exercises/__MACOSX/modal/scss/._buttons.scss
+05-07-21 CSS Transitions & Animations/Exercises/__MACOSX/modal/scss/._main.scss
+05-07-21 CSS Transitions & Animations/Exercises/__MACOSX/modal/scss/._modals.scss
+05-07-21 CSS Transitions & Animations/Exercises/__MACOSX/modal/scss/._normalize.scss
+05-07-21 CSS Transitions & Animations/Exercises/__MACOSX/modal/scss/._variables.scss
+05-07-21 CSS Transitions & Animations/Exercises/modal/js/main.js
+05-07-21 CSS Transitions & Animations/Exercises/modal/readme.txt
+05-07-21 CSS Transitions & Animations/Exercises/modal/scss/base.scss
+05-07-21 CSS Transitions & Animations/Exercises/modal/scss/buttons.scss
+05-07-21 CSS Transitions & Animations/Exercises/modal/scss/main.scss
+05-07-21 CSS Transitions & Animations/Exercises/modal/scss/modals.scss
+05-07-21 CSS Transitions & Animations/Exercises/modal/scss/normalize.scss
+05-07-21 CSS Transitions & Animations/Exercises/modal/scss/variables.scss
+12-03-21 Media Queries Part 2/__MACOSX/._Challenge - Article Picker
+12-03-21 Media Queries Part 2/__MACOSX/._Challenge - Deer Cropping (Art Direction)
+12-03-21 Media Queries Part 2/__MACOSX/Challenge - Article Picker/._index.html
+12-03-21 Media Queries Part 2/__MACOSX/Challenge - Article Picker/._main.css
+12-03-21 Media Queries Part 2/__MACOSX/Challenge - Deer Cropping (Art Direction)/._deer.jpg
+12-03-21 Media Queries Part 2/__MACOSX/Challenge - Deer Cropping (Art Direction)/._fully-cropped-deer.jpg
+12-03-21 Media Queries Part 2/__MACOSX/Challenge - Deer Cropping (Art Direction)/._index.html
+12-03-21 Media Queries Part 2/__MACOSX/Challenge - Deer Cropping (Art Direction)/._lightly-cropped-deer.jpg
+12-03-21 Media Queries Part 2/__MACOSX/Challenge - Deer Cropping (Art Direction)/._main.css
+12-03-21 Media Queries Part 2/Challenge - Article Picker/index.html
+12-03-21 Media Queries Part 2/Challenge - Article Picker/main.css
+12-03-21 Media Queries Part 2/Challenge - Deer Cropping (Art Direction)/deer.jpg
+12-03-21 Media Queries Part 2/Challenge - Deer Cropping (Art Direction)/fully-cropped-deer.jpg
+12-03-21 Media Queries Part 2/Challenge - Deer Cropping (Art Direction)/index.html
+12-03-21 Media Queries Part 2/Challenge - Deer Cropping (Art Direction)/lightly-cropped-deer.jpg
+12-03-21 Media Queries Part 2/Challenge - Deer Cropping (Art Direction)/main.css
+19-03-21 CSS Grid/Exercises/__MACOSX/._Challenge 1 - Rainbow Grid
+19-03-21 CSS Grid/Exercises/__MACOSX/Challenge 1 - Rainbow Grid/._Challenge 1 - Target Image.png
+19-03-21 CSS Grid/Exercises/__MACOSX/Challenge 1 - Rainbow Grid/._index.html
+19-03-21 CSS Grid/Exercises/__MACOSX/Challenge 1 - Rainbow Grid/._main.css
+19-03-21 CSS Grid/Exercises/Challenge 1 - Rainbow Grid/Challenge 1 - Target Image.png
+19-03-21 CSS Grid/Exercises/Challenge 1 - Rainbow Grid/index.html
+19-03-21 CSS Grid/Exercises/Challenge 1 - Rainbow Grid/main.css
+19-03-21 CSS Grid/Resources/01 - CSS Grid - First Steps/index.html
+19-03-21 CSS Grid/Resources/01 - CSS Grid - First Steps/main.css
+19-03-21 CSS Grid/Resources/02 - CSS Grid - Sizing rows and columns/index.html
+19-03-21 CSS Grid/Resources/02 - CSS Grid - Sizing rows and columns/main.css
+19-03-21 CSS Grid/Resources/03 - CSS Grid - Placing Grid Items/index.html
+19-03-21 CSS Grid/Resources/03 - CSS Grid - Placing Grid Items/main.css
+19-03-21 CSS Grid/Resources/04 - CSS Grid - Aligning the container/.DS_Store
+19-03-21 CSS Grid/Resources/04 - CSS Grid - Aligning the container/index.html
+19-03-21 CSS Grid/Resources/04 - CSS Grid - Aligning the container/main.css
+19-03-21 CSS Grid/Resources/__MACOSX/._01 - CSS Grid - First Steps
+19-03-21 CSS Grid/Resources/__MACOSX/._02 - CSS Grid - Sizing rows and columns
+19-03-21 CSS Grid/Resources/__MACOSX/._03 - CSS Grid - Placing Grid Items
+19-03-21 CSS Grid/Resources/__MACOSX/._04 - CSS Grid - Aligning the container
+19-03-21 CSS Grid/Resources/__MACOSX/01 - CSS Grid - First Steps/._index.html
+19-03-21 CSS Grid/Resources/__MACOSX/01 - CSS Grid - First Steps/._main.css
+19-03-21 CSS Grid/Resources/__MACOSX/02 - CSS Grid - Sizing rows and columns/._index.html
+19-03-21 CSS Grid/Resources/__MACOSX/02 - CSS Grid - Sizing rows and columns/._main.css
+19-03-21 CSS Grid/Resources/__MACOSX/03 - CSS Grid - Placing Grid Items/._index.html
+19-03-21 CSS Grid/Resources/__MACOSX/03 - CSS Grid - Placing Grid Items/._main.css
+19-03-21 CSS Grid/Resources/__MACOSX/04 - CSS Grid - Aligning the container/._index.html
+19-03-21 CSS Grid/Resources/__MACOSX/04 - CSS Grid - Aligning the container/._main.css
